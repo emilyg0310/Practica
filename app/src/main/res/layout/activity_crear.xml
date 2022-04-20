@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".crear">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ingrese Detalles"
+        android:textSize="36sp"
+        android:gravity="center"/>
+    <EditText
+        android:id="@+id/create_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese Tarea"
+        android:layout_marginTop="30dp"
+        android:padding="15dp"
+        android:background="#e2edfa"/>
+    <EditText
+        android:id="@+id/create_priority"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Prioridad"
+        android:padding="15dp"
+        android:background="#e2edfa"/>
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Guardar"/>
+</LinearLayout>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "122197200352",
+    "project_id": "practica-6d8ef",
+    "storage_bucket": "practica-6d8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122197200352:android:cfdca9a2913dd6877faf85",
+        "android_client_info": {
+          "package_name": "com.example.practica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122197200352-d4dp54nt6shugnse6ev9bplmll2h6rvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaWsQKRP5xggs8dYr5q8c_WRAZIn22WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122197200352-d4dp54nt6shugnse6ev9bplmll2h6rvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122197200352:android:b173de2abb4014327faf85",
+        "android_client_info": {
+          "package_name": "com.practica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122197200352-d4dp54nt6shugnse6ev9bplmll2h6rvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaWsQKRP5xggs8dYr5q8c_WRAZIn22WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122197200352-d4dp54nt6shugnse6ev9bplmll2h6rvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
